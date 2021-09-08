@@ -1,0 +1,18 @@
+.main{
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+    height: 100%;
+}
+.main__content{
+    width: 80%;
+    display: flex;
+    flex-wrap: nowrap;
+    padding: 10px 0 0 10px;
+}
+.main__filter{
+    width: 20%;
+    height: 100%;
+    box-shadow: 4px 0px 10px #d6d6d6;
+
+}
